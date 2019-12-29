@@ -4,7 +4,8 @@ A docker container for fcrackzip.
 I have included rockyou.txt wordlist which can be found as usual under */usr/share/wordlists*, 
 feel free to download more using the included **git** or **wget**.
 
-https://hub.docker.com/r/zhindonm/fcrackzip
+https://hub.docker.com/r/zhindonm/
+
 https://github.com/Zhindonm/fcrackzip
 
 ## Usage
